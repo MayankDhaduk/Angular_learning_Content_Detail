@@ -1,6 +1,6 @@
 Learn in angular : 
 1.Make Counter app
-2.click,input,mouse,focus and blue event
+2.click,input,mouse,focus and blur event
 3.get and set input field value
 4.style option and rules
 5.if else and elseif 
